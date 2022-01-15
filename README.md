@@ -1,2 +1,1 @@
-# machine-learning
-Machine Learning A-Z (Codes and Datasets)
+# a collection of algorithms and datasets in machine learning
