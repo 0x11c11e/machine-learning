@@ -1,1 +1,2 @@
-# a collection of algorithms and datasets in machine learning
+# A Collection of Algorithms and Datasets in Machine Learning
+
