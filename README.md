@@ -1,6 +1,8 @@
 ## A Collection of Algorithms and Datasets in Machine Learning
 Here is collection of all well known algorithms including their datasets. Feel free to edit it.
 
+![First Page](./MachineLearningAlgorithms.jpg)
+
 ![First Page](https://imgur.com/iHD35fz.jpg)
 ![Second Page](https://imgur.com/1iutktN.jpg)
 ![Thirt Page](https://imgur.com/2Ryd5Wx.jpg)
