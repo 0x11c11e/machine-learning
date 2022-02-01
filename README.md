@@ -8,3 +8,5 @@ Here is collection of all well known algorithms including their datasets. Feel f
 ![Thirt Page](https://imgur.com/2Ryd5Wx.jpg)
 ![Fourth Page](https://imgur.com/Bvni7tu.jpg)
 ![Fifth Page](https://imgur.com/QJFEiIh.jpg)
+
+![Over/Under Fitting](https://github.com/0x11c11e/machine-learning/blob/main/Cheatsheet/over_under_fitting.png)
